@@ -1,3 +1,9 @@
+\
+\
+\
+\
+\
+\
 Imagine you get in your car, destination in mind, foot on the gas, hands on the wheel
 
 but you can’t steer. 
@@ -32,6 +38,10 @@ Modern information is made for algorithms.
 \
 \
 Sei Sojo
+\
+\
+\
+.
 ---
 \
 \
