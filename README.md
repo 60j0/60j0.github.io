@@ -28,7 +28,54 @@ Advertising corrupts search and content at its core.
 
 Modern information is made for algorithms.
 
-
-
-
+\
+\
+\
 Sei Sojo
+---
+\
+\
+\
+jots>
+
+Ads & Algorithms
+
+Ads> corruption
+
+inequality
+
+inflation without value add
+
+nonmeritocratic
+\
+\
+\
+AI> no Trust> community, reviews, 
+
+spam, bots, 
+\
+\
+\
+Choice/ Control
+
+Control> opt in and out
+
+regulation and accountability
+\
+\
+\
+Value> need for efficient learning hub and search that prioritizes the most valuable thing rather than the most recent, and establishes foundations for which growth can occur
+
+discussion, rough consensus, 
+\
+\
+\
+empower those who support us and provide information that benefits us (contributions)
+\
+\
+\
+Solution: authentic web via constrained engagement, focus on open source and transparency, rough consensus, meritocraticacy 
+
+See more clearly. Perspicuity is a community project to create clarity. Join the effort
+
+Navigate properly
