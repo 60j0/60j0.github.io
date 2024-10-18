@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hitchens"
+title: "Clarity Protocol: An Authentic & Equitable Web"
 ---
 
 An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
